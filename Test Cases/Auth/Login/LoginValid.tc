@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginValid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a03b219e-d7ff-46a0-9f63-097adc64fa18</testCaseGuid>
+   <variable>
+      <defaultValue>'yulismunandar17@gmail.com'</defaultValue>
+      <description></description>
+      <id>f5869ea1-fd9b-4761-9664-6b75881acf24</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'xsNjvoSlR7TvrkJS19zsEQ=='</defaultValue>
+      <description></description>
+      <id>af5cf2df-c4d4-4f89-8c2d-03047727ba36</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

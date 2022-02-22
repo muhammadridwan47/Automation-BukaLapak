@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DataBinding</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>e5a261ea-798b-4f6b-a2e0-9f736c206f00</testSuiteGuid>
+   <testCaseLink>
+      <guid>197d855b-d918-48b0-8b1d-cba382ac1c68</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Auth/Login/LoginWithDataBinding</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>74c1a12a-41ed-465a-9eab-e063d76bee77</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/UserAccount/Account</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>74c1a12a-41ed-465a-9eab-e063d76bee77</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>013c925f-10ec-4b3a-902e-2b301aaf39ff</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>74c1a12a-41ed-465a-9eab-e063d76bee77</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>85afd00b-2e5b-4991-98c0-53b2b9bd61f9</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
